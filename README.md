@@ -18,10 +18,7 @@
     ・ HTML 5
     ・ CSS 3
     ・ JAVASCRIPT
-    ・ JQuery
-    ・ JSTL
-    ・ AJAX
-    ・ JSON
+    ・ 모델 1 패턴
     
 ### 프로젝트 진행 과정
     -> 개인프로젝트 주제 선정
